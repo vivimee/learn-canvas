@@ -1,0 +1,28 @@
+canvas {
+  border: 1px dashed #ccc;
+}
+
+.item {
+  margin: 20px;
+  padding: 0 20px 10px;
+  border: 1px dashed #ccc;
+}
+.item p {
+  font-size: 14px;
+  color: #333;
+}
+
+.canvas1 {
+  width: 100px;
+  height: 100px;
+}
+
+.canvas2 {
+  width: 100px;
+  height: 100px;
+}
+
+.canvas3 {
+  width: 100px;
+  height: 100px;
+}
